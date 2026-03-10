@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Manasvi Ambavale 👋
 
-<!--
-**ManasviAmbavale/ManasviAmbavale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+📊 Aspiring Data Analyst  
 
-Here are some ideas to get you started:
+I am passionate about analyzing data and turning it into meaningful insights.  
+Currently building projects using Python, Pandas, and data visualization tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Pandas
+- Data Analysis
+- Data Visualization
+- Excel
+- SQL (learning)
+
+## Projects
+
+### Netflix Data Analysis
+Exploratory data analysis on Netflix movies and TV shows dataset using Python and Pandas.
+
+### Sales Data Analysis
+Analyzed retail sales dataset to identify trends in sales, profit, and product performance.
+
+## Currently Learning
+- Advanced Data Analysis
+- SQL for Data Analysis
+- Power BI / Data Visualization
+
+## Connect with Me
+LinkedIn:  
+https://www.linkedin.com/in/manasvi-ambavale-a15703388
